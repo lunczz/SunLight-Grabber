@@ -1,7 +1,7 @@
 # SunLight-Grabber
 
 
-#GOTO REALEASES FOR THE DOWNLOAD AND HOW TO USE !
+##GOTO REALEASES FOR THE DOWNLOAD AND HOW TO USE !
 
 Screenshots
 ----------------------
