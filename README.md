@@ -12,9 +12,20 @@ Features
 -------------------
 Chrome DATA :
 
-PASSWORDS
+Passwords
 
-COOCKIES
+Coockies
+
+Credit Cards
+
+
+Discord DATA :
+
+Token
+
+Phone Number
+
+And More !
 _______
 
 
