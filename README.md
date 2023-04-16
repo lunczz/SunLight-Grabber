@@ -11,7 +11,9 @@ Screenshots
 Features
 -------------------
 Chrome DATA :
+
 PASSWORDS
+
 COOCKIES
 _______
 
